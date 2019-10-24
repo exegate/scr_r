@@ -7,7 +7,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background: url(../images/home/bg-img1.jpg) no-repeat center center fixed;
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
